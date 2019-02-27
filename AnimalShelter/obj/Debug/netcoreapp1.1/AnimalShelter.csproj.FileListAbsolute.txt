@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/bin/Debug/netcoreapp1.1/AnimalShelter.deps.json
+/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/bin/Debug/netcoreapp1.1/AnimalShelter.runtimeconfig.json
+/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/bin/Debug/netcoreapp1.1/AnimalShelter.runtimeconfig.dev.json
+/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/obj/Debug/netcoreapp1.1/AnimalShelter.AssemblyInfo.cs

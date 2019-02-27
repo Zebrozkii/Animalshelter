@@ -1,0 +1,8 @@
+<h1>Add a new animal to @Model.GetName()</h1>
+
+<form action='/types/@Model.GetId()/animals' method='post'>
+  <input id='typeId' name='typeId' type='hidden' value='@Model.GetId()'>
+  <label for='animalDescription'>Animal description</label>
+  <input id='animalDescription' name='animalDescription' type='text'>
+  <button type='submit'>Add item</button>
+</form>
